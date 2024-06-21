@@ -1,4 +1,4 @@
-# Job Application System README
+# Job Application System
 
 ## Overview
 The Job Application System is a simple console-based application that allows two types of users - applicants and administrators - to interact with job applications. Applicants can fill out and manage their job applications, while administrators can oversee and manage all applications submitted to the system.
